@@ -1,2 +1,2 @@
-# ghost-rider
+# EDUAPP
 Education Website
